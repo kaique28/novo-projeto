@@ -1,2 +1,4 @@
 # novo-projeto
-projeto para teste
+apt-get install update 
+#
+apt-get squid
